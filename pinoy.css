@@ -1,0 +1,124 @@
+@charset "utf-8";
+/* CSS Document */
+html
+{
+    overflow-y:scroll;
+}
+
+a img 
+{
+    border:0px;   
+}
+
+a
+{
+    text-decoration: none; font-size:18px;  
+}
+
+body
+{
+    background-color: #496D89;
+	padding:0;
+    font-family:  Georgia, serif;
+	font-size:18px
+}
+
+.wrapper
+{
+    width:1000px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+h1
+{
+	color: #032136;
+	text-align: center;
+	font-size: 40px;
+}
+
+h2
+{
+	color:#032136;
+}
+
+h3
+{
+	color:#032136;
+}
+
+h4
+{
+	color:#032136;
+	text-align:center;
+}
+.header
+{
+    background-color:#042037;
+	text-align:center;
+	color:#718EA4;
+	padding-top:20px;
+    height:70px;
+	font-size:40px
+}
+
+.menu
+{
+    background-color: #496D89;
+    height:44px;
+	
+}
+
+
+.menu-frame, .main-frame, .menu-bottom-frame
+{
+  	border:0px;
+    overflow:hidden;
+	
+}
+
+
+.content
+{
+    background-color:#496D89;
+    float:left;
+    width:980px;
+    padding:0px;
+	
+}
+
+.footer
+{
+    margin-bottom:0px;
+	margin-right:0px;
+	border-top: 2px solid #252626;
+    font-size:18px;
+}
+
+.footer a
+{
+    color:#000;
+}
+
+.footer a:hover, .footer a:active
+{
+    color:#FFF;
+}
+
+.foot-left
+{
+    float:left;
+	padding:5px 30px 15px;
+}
+
+.foot-right
+{
+    float:right;
+	padding:5px 30px 30px;
+}
+
+#main
+{
+	margin:2px;
+}
+
